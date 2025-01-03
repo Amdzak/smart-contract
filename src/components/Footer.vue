@@ -6,7 +6,7 @@
                     <div id="about" class="px-3 md:px-0">
                         <h3 class="font-bold">About</h3>
                         <p class="py-4">
-                            Malacraft is just a regular site. nothing special. &#x1F389;
+                            Malacraft is just a regular site. nothing special. 
                         </p>
                     </div>
                 </div>
